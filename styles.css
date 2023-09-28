@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-.blog-column{
+.container{
 	background-color:#e2e1e0;
 	width:800px;
 	display:flex;
@@ -7,14 +7,8 @@
 	justify-content:space-evenly;
 	flex-wrap:wrap;
 	}
-.item{color:black;
+.blog-column{color:black;
 	  background-color:white;
 	  height:150px;
 	  width:30vw;
 }
-.item3{
-	color:black;
-	  background-color:white;
-	  height:150px;
-	  width:30vw;
-	}
